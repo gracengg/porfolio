@@ -6,8 +6,7 @@ This site showcases my projects, skills, and experience in data analytics, progr
 ---
 
 ## 🚀 Live Website
-👉 **[gracengg.github.io](https://gracengg.github.io)**  
-(Optional) **Custom domain:** [gracengo.com](https://gracengo.com)
+👉 **[gracengg.github.io]([https://gracengg.github.io](https://gracengg.github.io/porfolio/))**  
 
 ---
 
